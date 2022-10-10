@@ -7,9 +7,13 @@
     ],
     "Physics": "21miku_night.physics3.json",
     "Motions": {
+	  "Idle": [
+	  {
+		  "File": "motions/w-adult-blushed01.motion3.json",
+	  }],
 	  "TapBody": [
 	  	  {
-		  "File": "motions/w-adult-blushed01.motion3.json"
+		  "File": "motions/w-adult-blushed02.motion3.json"
 	  }
 	  ],
       "w-adult-blushed01": [
@@ -2415,7 +2419,7 @@
   ],
   "Hitareas": [
   {
-	  "Id": "PhysicsSetting18",
+	  "Id": "PhysicsSetting1",
 	  "Name": "Body"
   }
   ]
