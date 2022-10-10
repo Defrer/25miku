@@ -10,7 +10,7 @@
 	  "Idle": [
 	  {
 		  "File": "motions/w-adult-blushed01.motion3.json",
-		  "FadeInTime": 10,
+		  "FadeInTime": 0.5,
           "FadeOutTime": 10
 	  },
 ],
