@@ -9,12 +9,6 @@
     "Motions": {
 	  "Idle": [
 	  {
-		  "File": "motions/w-adult-posenod02.motion3.json",
-		  "FadeInTime": 0.5,
-          "FadeOutTime": 0.5
-	  },
-	  
-	  {
 		  "File": "motions/w-adult-posetilthead01.motion3.json",
 		  "FadeInTime": 0.5,
           "FadeOutTime": 0.5
