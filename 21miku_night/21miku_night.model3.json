@@ -7,12 +7,17 @@
     ],
     "Physics": "21miku_night.physics3.json",
     "Motions": {
-	  "Idle" : [
+	  "Idle": [
 	  {
 		  "File": "motions/w-adult-blushed01.motion3.json",
 		  "FadeInTime": 0.5,
           "FadeOutTime": 0.5
 	  }],
+	  "TapBody": [
+	  	  {
+		  "File": "motions/w-adult-blushed01.motion3.json"
+	  }
+	  ],
       "w-adult-blushed01": [
         {
           "File": "motions/w-adult-blushed01.motion3.json",
@@ -2413,5 +2418,11 @@
       "Name": "LipSync",
       "Ids": []
     }
+  ],
+  "Hitareas": [
+  {
+	  "Id": "PhysicsSetting18",
+	  "Name": "Body"
+  }
   ]
 }
