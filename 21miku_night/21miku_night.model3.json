@@ -10,14 +10,10 @@
 	  "Idle": [
 	  {
 		  "File": "motions/w-adult-blushed01.motion3.json",
-		  "FadeInTime": 5,
-          "FadeOutTime": 5
+		  "FadeInTime": 1000,
+          "FadeOutTime": 1000
 	  },
-	  {
-		  "File": "motions/w-adult-blushed02.motion3.json",
-		  "FadeInTime": 5,
-          "FadeOutTime": 5
-	  }],
+],
 	  "TapBody": [
 	  	  {
 		  "File": "motions/w-adult-blushed02.motion3.json"
